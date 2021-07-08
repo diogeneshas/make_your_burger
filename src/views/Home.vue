@@ -18,4 +18,12 @@ export default {
 }
 </script>
 
+<style scoped>
+  h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+    font-style: italic;
+  }
+</style>
+
 
