@@ -137,28 +137,6 @@
       ],
       "status": "Solicitado",
       "id": 7
-    },
-    {
-      "nome": "Diogenes Henrique",
-      "carne": "Picanha",
-      "pao": "Parmesão e Orégano",
-      "opcionais": [
-        "Tomate",
-        "Cheddar"
-      ],
-      "status": "Solicitado",
-      "id": 8
-    },
-    {
-      "nome": "Diogenes Henrique",
-      "carne": "Veggie burger",
-      "pao": "Integral",
-      "opcionais": [
-        "Tomate",
-        "Pepino"
-      ],
-      "status": "Solicitado",
-      "id": 9
     }
   ]
 }
