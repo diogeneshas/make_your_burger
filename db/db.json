@@ -126,17 +126,6 @@
       ],
       "status": "Solicitado",
       "id": 6
-    },
-    {
-      "nome": "Diogenes Henrique",
-      "carne": "Maminha",
-      "pao": "Integral",
-      "opcionais": [
-        "Bacon",
-        "Cheddar"
-      ],
-      "status": "Finalizado",
-      "id": 7
     }
   ]
 }
